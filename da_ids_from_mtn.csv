@@ -1,0 +1,659 @@
+DEDICATED_ACCOUNT_ID, DESCRIPTION, UNIT_TYPE
+1, Mobile Money Bonus onnet,1
+2, SMS Bundle Onnet and OffNet,1
+3, 2 GHc Data Bundle-60MB,1
+4, 20 GHC Data Bundle 1GB,1
+5, Daily Social Bundle,1
+6, 40 GHC Data Bundle 2.5 GB,1
+7, SME_Plus_Data,1
+8, J4U Offer,1
+9, Birthday Promo On Recharge,1
+10, Handset,1
+11, MUL Credit Limit,1
+12, 5ghc data voucher 350mb,1
+13, FonAd Reward System,1
+14, Pre-payments,1
+15, EXCESS PAYMENT,1
+16, Roaming Credit Limit,1
+17, Sub suspension,1
+18, Weekly 3 Ghc Data Bundle-180MB,1
+19, Weekly 5 GHc Data Bundle -  150MB,1
+20, Monthly 10GHc Data Bundle - 400MB,1
+21, Akwaaba onnet voice_Or_SME_Plus_Voice,1
+22, FlyTxt BOR,1
+23, Vehicle Tracking Package DA,1
+24, Akwaaba Recharge,1
+25, HV_PACK_Onnet_Voice,1
+26, Combo Bundle Voice,1
+27, Combo Bundle OffNet Voice,1
+28, Combo Bundle OnNet SMS,1
+29, Holiday Data Bonus,1
+30, Combo Bundle Data,1
+31, 60 GHc Data Bundle 4GB,1
+32, 80 GHC Data Bundle 6GB,1
+33, 120 GHC Data Bundle 10GB,1
+34, FB1_Data,1
+35, Glico 400MB Life Style,1
+36, Birthday reward onnet voice,1
+37, Birthday reward sms onnet,1
+38, Birthday reward Data,1
+39, 399GHc(200Gb) 30days Data Bundle,1
+40, SME_Plus_Offnet_Voice,1
+41, J4U - IDD Bundle,1
+42, SME_Bundle_SMS,1
+43, Mobile Money Promo Voice DA,1
+44, MTN Wifi Broadband_Prepaid_5GB_20ghc,1
+45, MTN Wifi Broadband_Prepaid_10GB_40ghc,1
+46, MTN Wifi Broadband_Prepaid_20GB_75ghc,1
+47, Youth Voice,1
+48, Youth SMS,1
+49, Youth Data,1
+50, Mobile Money Promo,1
+51, PayGO MTN Broadband_Daily Bundles,1
+52, Akwaaba 50MB Data Bonus,1
+53, BonusDA / MV 40 day Churn,1
+54, 250GB Data Bundle,1
+55, Weekly Social Bundle,1
+56, MTN Wifi Broadband_Prepaid_45GB_120ghc,1
+57, Asset Tracking Data Bundle,1
+58, Asset Tracking Cost,1
+59, LCMS Point Based,1
+60, Shared Wallet Voice DA,1
+61, Money back voice,1
+62, Money Back data,1
+63, Transaction ID,1
+64, MobileMoney Rate Commission,1
+65, MobileMoney RateFee,1
+66, MobileMoney RateLoyalty,1
+67, Data Compensation DA,1
+68, 2GHC 150 SMS Bundle Onnet And OffNet,1
+69, 4GHC 400SMS Bundle Onnet and OffNet,1
+70, 5GHC 700SMS Bundle Onnet and OffNet,1
+71, 10GHC 1500SMS Bundle Onnet and OffNet,1
+72, Youtube_50MB,1
+73, Youtube_300MB,1
+74, Master Account SMS Bundle / 4.99GHC 60mins IDD Bundle,1
+75, Master Account Voice Bundle,1
+76, Master Account Data Bundle,1
+77, Nuvu Video Account,1
+78, Smart TV 90 GB Freebiz,1
+79, MoneyBack Offer for Huawei Devices,1
+80, J4U Data,1
+81, Datami_Sponsored Data,1
+82, YouthPulse Double Data DA,1
+83, Hello World Voice Mobile Originating,1
+84, MoneyBack Modem,1
+85, MoneyBack Router,1
+86, MoneyBack Mifi,1
+87, Xtra time,1
+88, Staff Referral Scheme,1
+89, Master Account Data DA,1
+90, MTN Wifi Broadband_Prepaid_90GB_175ghc,1
+91, MTN Wifi Broadband_225GB_240ghc,1
+92, UBER 200Mins Voice Offer,1
+95, Bonus on Recharge(1-5 GHC),1
+96, Bonus on Recharge(5 and above),1
+97, Samsung Note 3(2.5gb),1
+98, Samsung Note 3(5gb),1
+99, Reduction in Spend,1
+100, 0.5GHC(25Mb) Daily data Bundle,1
+101, 1GHC(50Mb) Daily Data Bundle,1
+102, 2GHC(120Mb) Daily Data Bundle,1
+103, 5GHC(350Mb) Daily Data Bundle(Smartapp),1
+104, DIY Voice,1
+105, FTTX Bonus Data,1
+106, DIY SMS,1
+107, DIY Data,1
+108, 400MB Kokrokoo Data,1
+109, 40MB_Daily_TV_Bundle_0.5GHC,1
+110, 100MB_Daily_TV_Bundle_1GHC,1
+111, LCM1,1
+112, LCM2,1
+113, Holiday Lifestyle Bonus,1
+114, Twitter_Facebook_Whatsapp_Instagram,1
+115, LCM 2038,1
+116, LCM 2039 voice onnet,1
+117, LCM 2036,1
+118, LCM 2037,1
+119, Device Stategy voice onnet,1
+120, Device Stategy Data,1
+121, Device Stategy voice onnet,1
+122, Device Stategy Data,1
+123, Device Stategy voice onnet,1
+124, Device Stategy Data,1
+125, Device Stategy voice onnet,1
+126, Device Stategy Data,1
+127, Device Stategy voice onnet,1
+128, Device Stategy Data,1
+129, Device Stategy Data,1
+130, Device Stategy Data,1
+131, Device Stategy Data,1
+132, Football SMS Bundle,1
+133, One year Anniversary Bonus,1
+134, 1080 days Anniversary bonus,1
+135, 1350 day Anniversary bonus,1
+136, 1440 day Anniversary bonus,1
+137, 1800 day Anniversary bonus,1
+138, 2160 day Anniversary bonus,1
+139, 2520 days Anniversary bonus,1
+140, 2880 days Anniversary bonus,1
+141, 3240 days Anniversary bonus,1
+142, 3600 days Anniversary bonus,1
+143, 3960 days Anniversary bonus,1
+144, 4320 days Anniversary bonus,1
+145, 4680 days Anniversary bonus,1
+146, 720 days Anniversary bonus,1
+147, Akwaaba voice,1
+148, Akwaaba sms,1
+149, Akwaaba data,1
+150, Onnet Voice Monetary,1
+151, Onnet Voice  Non-Monetary,0
+152, 800MB_Daily_TV_Bundle_3GHC,1
+153, OffNet and IDD BAND1A Voice Non-Monetary,0
+154, Onnet SMS Monetary,1
+155, Onnet SMS Non-Monetary,5
+156, Hello World Voice Mobile Terminating,1
+157, Offnet SMS Non-Monetary,5
+158, Onent and OffNet Voice  Monetary,1
+159, Onent and OffNet Voice Non-Monetary,0
+160, OnNet And Offnet SMS Monetary,1
+161, OnNet And Offnet SMS Non-Monetary,5
+162, Hello World SMS,1
+163, Hello World Data Bundle_165ghc_2000MB,5
+164, Hello World Data Bundle_410ghc_5000MB,1
+165, Hello World Data Bundle_40ghc_57.14MB,5
+166, All Data TG Monetary,1
+167, All Data TG Non-Monetary (Bytes),6
+168, UBER 1000MB DATA OFFER,1
+169, ISD BAND1A Voice Non-Monetary,0
+170, 100MB Life Style Bundle,1
+171, 4GB Video Pack,1
+172, Hello World Data,1
+173, Hello World Data Bundle_80ghc_114.29MB,0
+174, Hello World Data Bundle_80ghc_1000MB,1
+175, 1GB Life Style Bundle,1
+176, 1200MB_Daily_TV_Bundle_5GHC,1
+177, Hello World Data Bundle_40ghc_500MB,0
+178, Onent  OffNet Voice and ISD voice all Zones Monetary,1
+179, 360MB_Weekly_TV_Bundle_3GHC,1
+180, ONNET -OFFNET Voice AND SMS Monetary,1
+181, 600MB_Weekly_TV_Bundle_5GHC,1
+182, MONETARY_ONNET&OFFNET_VOICE-SMS-DATA-All_ISD_Zones,1
+183, 150GB Monthly Data Bundle,1
+184, ONNET AND OFFNET ISD BAND1E BANDID BANDIC All Data TG ONNET SMS,0
+185, DIY BUNDLE SMS,5
+186, DIY BUNDLE VOICE,0
+187, DIY BUNDLE DATA,6
+188, Daily Data Redemption Cap,1
+189, Weekly Data Redemption Cap,1
+190, Monthly Data Redemption Cap,1
+191, Momo Freebiz For Registration Info Update,1
+192, DIY BUNDLE SMS VIA PREPAID WALLET,5
+193, DIY BUNDLE VOICE VIA PREPAID WALLET,0
+194, DIY BUNDLE DATA VIA PREPAID WALLET,6
+195, Hello World Data Bundle_165ghc_235.71MB,1
+196, ACS Data,1
+197, Hello World Data Bundle_410ghc_585.71MB,1
+198, 4G_20GB data bundle,1
+199, 4G_50GB data bundle,1
+200, 4G_100GB data bundle,1
+201, Pay Monthly SMS Onnet  And Offnet,5
+202, Daily 4G SIM Swap Bonus,1
+203, Weekly/Monthly 4G SIM Swap Bonus,1
+204, 1GHC 25MB Weekly Bundle,1
+205, Contract-Staff Monthly DA/4G TopUp 5GB Capping,1
+206, 2000MB_Weekly_TV_Bundle_10GHC,1
+207, Device_Bundle_DA,1
+208, FTTX | WTTX DA,1
+209, Music Plus Data,1
+210, 4500MB_Weekly_TV_Bundle_20GHC,1
+211, Master Beneficiary SMS Bundle,1
+212, PM Birthday Reward Voice,1
+213, PM Birthday Reward SMS,1
+214, PM Birthday Reward Data,1
+215, Master Beneficiary Voice Bundle,1
+216, Local_voice_across_NW_Non_Monetary,0
+217, 2000MB_Monthly_TV_Bundle_20GHC,1
+218, IDD_destination_for_Ericsson_bundle_nonmone,0
+219, 3500MB_Monthly_TV_Bundle_30GHC,1
+220, Local_sms_across_nw_nonmon,5
+221, 5000MB_Monthly_TV_Bundle_40GHC,1
+222, Data_nonmone_bundle,6
+223, Kokrokoo Voice 30 Mins,1
+224, PM_Money_Back_Local_SMS_across_nw_nonmon,5
+225, PM_Money_Back_Local_Voice_Across_nw_nonmon,0
+226, PM_Money_Back_Data_NonMonetary_Bundle,6
+227, GH3 500MB Daily Data Bundle,1
+228, VOICE ONNET OFFNET AND ISD ZONE 1A,0
+229, 7000MB_Monthly_TV_Bundle_50GHC,1
+230, Voice IDD and National Calls,0
+231, IDD Bundle_Canada_UK fixed_China_USA_India_2ghc,1
+232, IDD Bundle_Canada_UK fixed_China_USA_India_5ghc,1
+233, IDD Bundle_Canada_UK fixed_China_USA_India_10ghc,1
+234, IDD Bundle_France_Germany_Spain_2ghc,1
+235, IDD Bundle_France_Germany_Spain_5ghc,1
+236, IDD Bundle_France_Germany_Spain_10ghc,1
+237, NightBundle_5GB,1
+238, NightBundlePlus_3GB,1
+239, 15GB_MonhtlyDataBundle,1
+241, Kumawood Freebies,1
+242, 14 Years And Above Anniversary Bonus Onnet,1
+243, Device Strategy iPhone6 2560MB Data,1
+244, PM ME2U,1
+245, PM Reward_100SMS Freebies,5
+246, PM Reward 1GB Data NonMonetary,6
+247, PM Reward 100Mins_Voice National Calls NonMonetary,0
+248, 1GB Weekly Data Bundle,1
+249, Dataguard Top Up Bundle,1
+250, PM Device Deal 2.5GB Data Freebies,6
+251, Dataguard Default Bundle,1
+252, Whatsapp_50MB,1
+253, Huawei Eazifone Prepaid  Voice,1
+254, Smart  Cam Data Offer,1
+255, Huawei Eazifone Prepaid SMS,1
+256, Master Beneficiary Data Bundle,1
+300, Smart Capex,1
+304, Afcon_MOC,1
+305, Hajj_MTC,1
+306, Afcon_Data,1
+307, Afcon_SMS,1
+308, Data Library_Free MB,1
+309, Data Library_Bonus,1
+310, Data Library_Lifestysle Bonus,1
+311, Data Library_Free MB_Night bundle,1
+312, Goody Hour_Lifestyle Bundle,1
+313, Goody Day_Lifestyle Bundle,1
+314, DIY_Voice,1
+315, DIY_SMS,1
+316, DIY_Data,1
+317, Jaara2_Free50 MB,1
+318, SME_Plus_Onnet_Offnet_Wallet,1
+319, CVM Bundles_MoMo_Onnet,1
+320, Internet Addiction_500MB_Bonus,1
+321, Internet Addiction_1GB_Bonus,1
+322, DIASPORA 100 SMS Across NW,1
+323, DIASPORA 100Mins ACROSS NW,1
+324, DIASPORA  1GB DATA,1
+325, DIASPORA 400MB LIFESTYLE BUNDLE,1
+326, DIASPORA UK FIXED 10MINS,1
+327, Onnet_Weekly,1
+328, Onnet_Monthly,1
+329, Allnet_Daily,1
+330, Allnet_Weekly,1
+331, Allnet_Monthly,1
+332, CVM 60MB daily @ GHS 1,1
+333, CVM 100MB daily @ GHS 1.50,1
+334, CVM 130MB daily @ GHS 2,1
+335, CVM 1GB 3-day @ GHS 5,1
+336, Onnet_Daily,1
+337, CVM 2.5GB 3-day @ GHS 12,1
+338, CVM 100MB 3-day @ GHS 2,1
+339, CVM 300MB 3-day @ GHS 3,1
+340, CVM 500MB weekly @ GHS 5,1
+341, CVM 1.5GB weekly @ GHS 15,1
+342, CVM 550MB monthly @ GHS 10,1
+343, CVM 2GB monthly @ GHS 20,1
+344, CVM 1.2GB monthly @ GHS 15,1
+345, CVM 3GB monthly @ GHS 30,1
+346, Monthly_10GHC_600MB,1
+347, Monthly_20GHC_2028MB,1
+348, Monthly_30GHC_3277MB,1
+349, Monthly_50GHC_5632MB,1
+350, Monthly_100GHC_13312MB,1
+351, Monthly_199GHC_28672MB,1
+352, Monthly_299GHC_56320MB,1
+353, Monthly_399GHC_204800MB,1
+354, Hot Seat_Voice Benefit,1
+355, Hot Seat_Data Benefit,1
+365, Free100MB-Saturday_SundayOnly,1
+366, Free200MB-7days,1
+367, Free200MB-15days,1
+368, Free100MB-30days,1
+369, Free200MBWhatsappOnly- Saturday_SundayOnly,1
+370, Free400MBFacebookOnly-Saturday_SundayOnly,1
+371, Free400MBInstagramOnly - Saturday_SundayOnly,1
+372, FreeOnnetMinutes-3days,1
+373, FreeOnnetMinutes-7days,1
+374, FreeOnnetMinutes-15days,1
+375, Terrific Thursday_50% Bonus,1
+376, Free500MBLifestylePack-Saturday_SundayOnly,1
+377, Free200MBWhatsappOnly-7days,1
+378, Free300MBWhatsappOnly-30days,1
+379, Free250MBFacebookOnly-7days,1
+380, Free350MBInstagramOnly-7days,1
+381, Free500MBLifestylePack-7days,1
+382, Data Zone unlimited,1
+383, Data Zone 25mb,1
+384, Data Zone 50mb,1
+385, Data Zone 75mb,1
+386, Data Zone bonus,1
+387, Daily_Bundle_50MB_1GHC,1
+388, Daily_Bundle_120MB_2GHC,1
+389, Daily_Bundle_500MB_3GHC,1
+390, Weekly_Bundle_25MB_1GHC,1
+391, Weekly_Bundle_60MB_2GHC,1
+392, Weekly_Bundle_180MB_3GHC,1
+393, Weekly_Bundle_300MB_5GHC,1
+394, Weekly_Bundle_1000MB_10GHC,1
+395, Monthly_Bundle_600MB_10GHC,1
+396, Monthly_Bundle_2028MB_20GHC,1
+397, Monthly_Bundle_3277MB_30GHC,1
+398, Monthly_Bundle_5632MB_50GHC,1
+399, Monthly_Bundle_13312MB_100GHC,1
+400, MyMTN_50MB,6
+401, Monthly_Bundle_28672MB_199GHC,1
+402, Monthly_Bundle_102400MB_299GHC,1
+403, Monthly_Bundle_204800MB_399GHC,1
+421, Daily_Bundle_25MB_0.5GHC,1
+422, JAARA,1
+423, 2GHC Sunday Special,1
+424, 2GHC Sunday Special,1
+425, FMC UPTAKE,1
+426, Dream Oval Onnet,0
+427, Dream Oval Offnet,0
+428, 138CST_Daily Internet,1
+429, 138CST_Weekly Internet,1
+430, 138CST_Monthly Internet,1
+431, Voice_567CSTYouth_Daily,1
+432, Voice_567CSTYouth_Weekly,1
+433, Voice_567CSTYouth_Monthly,1
+434, Data_567CSTYouth_Daily,1
+435, Data_567CSTYouth_Weekly,1
+436, Data_567CSTYouth_Monthly,1
+437, Social Media Bundle Daily,1
+438, Social Media Bundle Weekly,1
+439, Social Media Bundle Monthly,1
+440, Video Bundle Daily,1
+441, Video Bundle Weekly,1
+442, Video Bundle Monthly,1
+443, IDD Bundle 1,1
+444, IDD Bundle 2,1
+445, IDD Bundle 3,1
+446, Super Saver Bundle Daily  - Voice,1
+447, Super Saver Bundle Weekly  - Voice,1
+448, Super Saver Bundle Monthly  - Voice,1
+449, Super Saver Bundle Daily  - Data,1
+450, Super Saver Bundle Weekly  - Data,1
+451, Super Saver Bundle Monthly  - Data,1
+452, Midnight Bundle,1
+453, ,1
+454, ,1
+455, ,1
+456, ,1
+457, ,1
+458, ,1
+459, ,1
+460, ,1
+461, ,1
+462, Midnight_3ghcTo5ghc,1
+465, Money Back Voice,1
+466, Money Back Data,1
+467, Student Pack Onnet DA ID,1
+468, Student Pack Offnet DA ID,1
+469, Student Pack Data DA ID,1
+470, Student Pack SMS DA ID,1
+471, Student Pack Lifestyle Bundle DA ID,1
+500, 5% Bonus on Recharge,1
+1000, MUL_DA_TEST_24102012,1
+6011, MTN_Advantage,1
+6013, MINI ADVANTAGE,1
+6015, ADVANTAGE BONUS,1
+10003, Nfinity_100MB,1
+10004, Nfinity_250MB,1
+10005, Nfinity_500MB,1
+10006, Nfinity_1GB,1
+10007, 5GHC_100MB_EVERY_DAY,6
+10008, 10GHC_250MB_EVERY_DAY,6
+10009, 20GHC_600MB_EVERY_DAY,6
+10011, 120GHC_1024MB_EVERY_DAY,6
+10012, DATA ONLY_7GHC,6
+10013, DATA ONLY_10GHC,6
+10014, DATA ONLY_15GHC,6
+10015, DATA ONLY_20GHC,6
+10016, DATA ONLY_30GHC,6
+10017, DATA ONLY_5GHC,6
+10051, MusicTime_50MB,6
+10052, MusicTime_100MB,6
+10053, MusicTime_250MB,6
+10054, MusicTime_700MB,6
+10055, DATA 25% Gift Bundle bonus,6
+10060, PM REWARDS VOICE,0
+10061, PM REWARDS DATA,6
+20001, Nfinity_10Mins,1
+20002, Nfinity_20Mins,1
+20003, Nfinity_50Mins,1
+20007, IDD Bundle GHC 20_GERMANY MOBILE,0
+20008, IDD Bundle GHC 20_GERMANY FIXED,0
+20009, IDD Bundle GHC 20_INDIA,0
+20010, IDD Bundle GHC 20_FRANCE FIXED,0
+20011, IDD Bundle GHC 20_FRANCE MOBILE,0
+20012, IDD Bundle GHC 20_UAE,0
+20013, IDD Bundle GHC 40_ITALY FIXED,0
+20014, IDD Bundle GHC 40_ITALY MOBILE,0
+20015, IDD Bundle GHC 40_BELGIUM,0
+20016, IDD Bundle GHC 40_SPAIN FIXED,0
+20017, IDD Bundle GHC 40_ SPAIN MOBILE,0
+20018, IDD Bundle GHC 40_NETHERLANDS,0
+20019, IDD Bundle GHC 30_GERMANY MOBILE,0
+20020, IDD Bundle GHC 30_GERMANY FIXED,0
+20021, IDD Bundle GHC 30_INDIA,0
+20022, IDD Bundle GHC 30_FRANCE FIXED,0
+20023, IDD Bundle GHC 30_FRANCE MOBILE,0
+20024, IDD Bundle GHC 30_UAE,0
+20025, IDD Bundle GHC 50_GERMANY MOBILE,0
+20026, IDD Bundle GHC 50_GERMANY FIXED,0
+20027, IDD Bundle GHC 50_INDIA,0
+20028, IDD Bundle GHC 50_FRANCE FIXED,0
+20029, IDD Bundle GHC 50_FRANCE MOBILE,0
+20030, IDD Bundle GHC 50_UAE,0
+20031, IDD Bundle GHC 50_ITALY FIXED,0
+20032, IDD Bundle GHC 50_ITALY MOBILE,0
+20033, IDD Bundle GHC 50_BELGIUM,0
+20034, IDD Bundle GHC 50_SPAIN FIXED,0
+20035, IDD Bundle GHC 50_ SPAIN MOBILE,0
+20036, IDD Bundle GHC 50_NETHERLANDS,0
+20037, IDD Bundle GHC 100_ITALY FIXED,0
+20038, IDD Bundle GHC 100_ITALY MOBILE,0
+20039, IDD Bundle GHC 100_BELGIUM,0
+20040, IDD Bundle GHC 100_SPAIN FIXED,0
+20041, IDD Bundle GHC 100_ SPAIN MOBILE,0
+20042, IDD Bundle GHC 100_NETHERLANDS,0
+40004, COMBO_Data_5GHC,6
+40005, COMBO_Data_7GHC,6
+40006, COMBO_Data_10GHC,6
+40007, COMBO_Data_15GHC,6
+40008, COMBO_Data_20GHC,6
+40009, COMBO_Data_30GHC,6
+40010, COMBO_Voice_5GHC,0
+40011, COMBO_Voice_7GHC,0
+40012, COMBO_Voice_10GHC,0
+40013, COMBO_Voice_15GHC,0
+40014, COMBO_Voice_20GHC,0
+40015, COMBO_Voice_30GHC,0
+40016, Farmers Onnet,1
+40017, Farmers Offnet,1
+40018, Farmers SMS,1
+40019, Farmers Data,1
+40028, Tertiary Package _Ghc40,0
+40029, Tertiary Package _Ghc80,0
+40030, Tertiary Package _Ghc120,0
+40031, Tertiary Package _Ghc150,0
+40032, Tertiary Package _Ghc170,0
+40036, Tertiary Package _Ghc150,0
+40037, Tertiary Package _Ghc170,0
+40038, Tertiary Package _Ghc40,5
+40039, Tertiary Package _Ghc80,5
+40040, Tertiary Package _Ghc120,5
+40041, Tertiary Package _Ghc150,5
+40042, Tertiary Package _Ghc170,5
+40043, Tertiary Package _Ghc40,6
+40044, Tertiary Package _Ghc80,6
+40045, Tertiary Package _Ghc120,6
+40046, Tertiary Package _Ghc150,6
+40047, Tertiary Package _Ghc170,6
+40048, Tertiary Package _Ghc40,6
+40049, Tertiary Package _Ghc80,6
+40050, Tertiary Package _Ghc120,6
+40051, Tertiary Package _Ghc150,6
+40052, Tertiary Package _Ghc170,6
+40088, 25th Anniversary Founding Fathers Free 2.5GB,6
+40089, 25th Anniversary GenZ Millennials_ Free 2.5GB,6
+100002, Football SMS Bundle ODR,5
+100003, 138 DATA DA ODR,6
+100004, Monthly_1GB,6
+100006, Monthly_2.5GB,6
+100007, ODR SME Plus Data,6
+100018, Weekly_180MB,6
+100019, DATA GHC 10,6
+100020, Monthly_400MB,6
+100021, ODR SME Plus Onnet Voice,0
+100025, ODR HV PACK Onnet Voice,0
+100026, Super Saver GHC 5 Voice,0
+100027, Postpaid DATA TOPUP,6
+100028, Super Saver GHC 5 SMS,5
+100029, Holiday Offer Segment,6
+100030, Super Saver GHC 5 Data,6
+100031, Monthly_4GB,6
+100032, Monthly_6GB,6
+100033, 138 DATA DA ODR,6
+100036, Birthday reward onnet voice,0
+100037, Birthday reward SMS,5
+100038, Birthday reward Data,6
+100040, ODR SME Plus Offnet Voice,0
+100042, ODR SME Plus SMS,5
+100048, MashUp Free SMS,5
+100093, ODR HV PACK SMS,5
+100094, ODR HV PACK Data,6
+100100, DATA GHC 0.5,6
+100101, DATA GHC 1,6
+100102, Daily_180MB,6
+100108, Kokrokoo DATA,6
+100110, Video Bundle GHC 1,6
+100113, Holiday Offer Segment D_400MB And Above Cap_400MB Bon,6
+100114, Lifestyle_400 MB,6
+100170, 100MB Life Style Bundle,6
+100175, 1GB Life Style Bundle,6
+100188, Daily Data Redemption Cap,6
+100189, Weekly Data Redemption Cap,6
+100190, Monthly Data Redemption Cap,6
+100204, Weekly-25MB,6
+100206, Video Bundle GHC 10,6
+100208, FTTX | WTTX ODR Data,6
+100209, HSDP ODR Music | Video Plus Data,6
+100221, Video Bundle GHC 5,6
+100223, Kokrokoo Voice,0
+100227, GHC3 Daily-500M,6
+100232, IDD Bundle GHC 5_CANADA_UK FIXED_CHINA_USA_INDIA,0
+100238, DATA GHC 1 (Midnight),6
+100239, 138 DATA DA ODR,6
+100241, HSDP Kumawood Freebies Data,6
+100242, ODR Anniversary Bonus Onnet,0
+100248, Weekly-1000MB,6
+100308, FlyTxt Data,6
+100309, Library Bonus_Data,6
+100310, Library Bonus_Data,6
+100311, Free_1GB Night Bundle,6
+100312, Goody Hour_Lifestyle Bundle,6
+100313, Goody Day_Lifestyle Bundle,6
+100317, ODR Jaara2 Data,6
+100318, ODR SME Plus Voice,0
+100320, Internet Addiction_500MB_Bonus_Offer,6
+100321, Internet Addiction_1GB_Bonus_Offer,6
+100327, Onne Voice,0
+100328, Onne Voice,0
+100329, Allnet Voice,0
+100330, Allnet Voice,0
+100331, Allnet Voice,0
+100332, Daily @1 for 60MB,6
+100333, Daily @1 for 100MB,6
+100334, Daily @1 for 130MB,6
+100335, 3 Day @3 for 1GB,6
+100336, Onne Voice,0
+100337, 3 Day @3 for 2.5GB,6
+100338, 3 Day @3 for 100MB,6
+100339, 3 Day @3 for 300MB,6
+100340, Weekly @7 for 500MB,6
+100341, Weekly @7 for 1.5MB,6
+100342, Monthly @30 for 550MB,6
+100343, Monthly @30 for 2GB,6
+100344, Monthly @30 for 1.2GB,6
+100345, Monthly @30 for 3GB,6
+100354, HSDP Hot Seat Voice Benefit,0
+100355, HSDP Hot Seat Data Benefit,6
+100365, Data Bundle@2days,6
+100366, Data Bundle@7days,6
+100367, Data Bundle@15days,6
+100368, Data Bundle@30days,6
+100369, Social Data Bundle_200MB,6
+100370, Social Data Bundle_400MB,6
+100371, Social Data Bundle_400MB@2,6
+100372, Onnet Minutes_40 Min,0
+100373, Onnet Minutes_20 Min@7,0
+100374, Onnet Minutes_30 Min@15,0
+100375, Terrific Thursday DATA DA,6
+100376, Social Data Bundle_500MB,6
+100377, Social Data Bundle_200MB@7,6
+100378, Social Data Bundle_300MB,6
+100379, Social Data Bundle_250MB,6
+100380, Social Data Bundle_350MB,6
+100381, Social Data Bundle_500MB,6
+100422, ODR Jaara3 Offnet Voice,0
+100423, ODR 2GHC Sunday Special,6
+100424, ODR 2GHC Sunday Special,0
+100428, 138 DATA DA ODR,6
+100429, 138 DATA DA ODR,6
+100430, DATA Flexi Bundles (GHC 0.03-399),6
+100431, MashUp Voice,0
+100432, 567 ODR Voice Youth Pulse,0
+100433, 567 ODR Voice Youth Pulse,0
+100434, MashUp DATA,6
+100435, 567 ODR Data Youth Pulse,6
+100436, DATA Flexi(GHC 0-2.99) (Midnight),6
+100437, Social Media GHC 1,6
+100438, Social Media GHC 5,6
+100439, Social Media GHC 10,6
+100440, Video Data Bundle 1,6
+100441, Video Data Bundle 3,6
+100442, Video Bundle Flexi (GHC 0.03-1000),6
+100446, Super Saver GHC 10 Voice,0
+100447, ODR Super Saver Bundle Voice,0
+100448, Super Saver Bundle Flexi Voice,0
+100449, Super Saver GHC 10 Data,6
+100450, ODR Super Saver Bundle Data,6
+100451, Super Saver Bundle Flexi Data,6
+100462, DATA GHC 3  (Midnight),6
+101462, Midnight DATA DA ODR,6
+200082, Mashup 4G Bonus DA1,6
+200083, Mashup 4G Bonus DA2,6
+200114, Mashup Social DATA,6
+200202, DATA 4G Bonus DA 1,6
+200203, DATA 4G Bonus DA 2,6
+200204, ODR 4G Bonus DA,6
+200208, ODR FTTX Bonus DA,6
+200252, Mashup WhatsApp DATA 1,6
+300002, SMS Bundle ODR,5
+300006, 567 ODR Voice Youth Pulse,0
+300007, ODR Youth SMS,5
+300008, 567 ODR Data Youth Pulse,6
+300009, 567 ODR Voice Youth Pulse,0
+300010, ODR Youth SMS,5
+300011, 567 ODR Data Youth Pulse,6
+300012, 567 ODR Data Youth Pulse,6
+300013, ODR MTN Advantage 1,6
+300014, ODR MTN Advantage 2,6
+300015, ODR SMS Bundle Flexi,5
+300016, ODR IDD Bundle Flexi,0
+300017, ODR Super Saver Bundle SMS,5
+300018, Super Saver Bundle Flexi SMS,5
+300019, Super Saver GHC 10 SMS,5
+300026, Super Saver GHC 50 Voice,0
+300028, Super Saver GHC 50 SMS,5
+300030, Super Saver GHC 50 Data,6
+300031, DATA GHC 3,6
+300032, DATA GHC 399,6
+300100, Me2U DATA Transfer,6
+300436, Midnight DATA DA ODR,6
+300439, Social Media Flexi (GHC 0.03-1000),6
+300443, IDD Bundle GHC 2_CANADA_UK FIXED_CHINA_USA_INDIA,0
+300445, IDD Bundle GHC 10_CANADA_UK FIXED_CHINA_USA_INDIA,0
+400000, FTTX | WTTX ODR Flexi Data,6

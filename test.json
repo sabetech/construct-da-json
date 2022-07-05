@@ -1,0 +1,5924 @@
+[
+ {
+  "dedicated_account": 1,
+  "description": "Mobile Money Bonus onnet",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 2,
+  "description": "SMS Bundle Onnet and OffNet",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 3,
+  "description": "2 GHc Data Bundle-60MB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 4,
+  "description": "20 GHC Data Bundle 1GB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 5,
+  "description": "Daily Social Bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 6,
+  "description": "40 GHC Data Bundle 2.5 GB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 7,
+  "description": "SME_Plus_Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 8,
+  "description": "J4U Offer",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 9,
+  "description": "Birthday Promo On Recharge",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 10,
+  "description": "Handset",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 11,
+  "description": "MUL Credit Limit",
+  "unit_type": 1,
+  "is_active": true,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": true
+ },
+ {
+  "dedicated_account": 12,
+  "description": "5ghc data voucher 350mb",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 13,
+  "description": "FonAd Reward System",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 14,
+  "description": "Pre-payments",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": true
+ },
+ {
+  "dedicated_account": 15,
+  "description": "EXCESS PAYMENT",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": true
+ },
+ {
+  "dedicated_account": 16,
+  "description": "Roaming Credit Limit",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": true
+ },
+ {
+  "dedicated_account": 17,
+  "description": "Sub suspension",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": true
+ },
+ {
+  "dedicated_account": 18,
+  "description": "Weekly 3 Ghc Data Bundle-180MB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 19,
+  "description": "Weekly 5 GHc Data Bundle -  150MB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20,
+  "description": "Monthly 10GHc Data Bundle - 400MB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 21,
+  "description": "Akwaaba onnet voice_Or_SME_Plus_Voice",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 22,
+  "description": "FlyTxt BOR",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 23,
+  "description": "Vehicle Tracking Package DA",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 24,
+  "description": "Akwaaba Recharge",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 25,
+  "description": "HV_PACK_Onnet_Voice",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 26,
+  "description": "Combo Bundle Voice",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 27,
+  "description": "Combo Bundle OffNet Voice",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 28,
+  "description": "Combo Bundle OnNet SMS",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 29,
+  "description": "Holiday Data Bonus",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 30,
+  "description": "Combo Bundle Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 31,
+  "description": "60 GHc Data Bundle 4GB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 32,
+  "description": "80 GHC Data Bundle 6GB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 33,
+  "description": "120 GHC Data Bundle 10GB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 34,
+  "description": "FB1_Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 35,
+  "description": "Glico 400MB Life Style",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 36,
+  "description": "Birthday reward onnet voice",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 37,
+  "description": "Birthday reward sms onnet",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 38,
+  "description": "Birthday reward Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 39,
+  "description": "399GHc(200Gb) 30days Data Bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40,
+  "description": "SME_Plus_Offnet_Voice",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 41,
+  "description": "J4U - IDD Bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 42,
+  "description": "SME_Bundle_SMS",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 43,
+  "description": "Mobile Money Promo Voice DA",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 44,
+  "description": "MTN Wifi Broadband_Prepaid_5GB_20ghc",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 45,
+  "description": "MTN Wifi Broadband_Prepaid_10GB_40ghc",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 46,
+  "description": "MTN Wifi Broadband_Prepaid_20GB_75ghc",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 47,
+  "description": "Youth Voice",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 48,
+  "description": "Youth SMS",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 49,
+  "description": "Youth Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 50,
+  "description": "Mobile Money Promo",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 51,
+  "description": "PayGO MTN Broadband_Daily Bundles",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 52,
+  "description": "Akwaaba 50MB Data Bonus",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 53,
+  "description": "BonusDA / MV 40 day Churn",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 54,
+  "description": "250GB Data Bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 55,
+  "description": "Weekly Social Bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 56,
+  "description": "MTN Wifi Broadband_Prepaid_45GB_120ghc",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 57,
+  "description": "Asset Tracking Data Bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 58,
+  "description": "Asset Tracking Cost",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 59,
+  "description": "LCMS Point Based",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 60,
+  "description": "Shared Wallet Voice DA",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 61,
+  "description": "Money back voice",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 62,
+  "description": "Money Back data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 63,
+  "description": "Transaction ID",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 64,
+  "description": "MobileMoney Rate Commission",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 65,
+  "description": "MobileMoney RateFee",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 66,
+  "description": "MobileMoney RateLoyalty",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 67,
+  "description": "Data Compensation DA",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 68,
+  "description": "2GHC 150 SMS Bundle Onnet And OffNet",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 69,
+  "description": "4GHC 400SMS Bundle Onnet and OffNet",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 70,
+  "description": "5GHC 700SMS Bundle Onnet and OffNet",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 71,
+  "description": "10GHC 1500SMS Bundle Onnet and OffNet",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 72,
+  "description": "Youtube_50MB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 73,
+  "description": "Youtube_300MB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 74,
+  "description": "Master Account SMS Bundle / 4.99GHC 60mins IDD Bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 75,
+  "description": "Master Account Voice Bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 76,
+  "description": "Master Account Data Bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 77,
+  "description": "Nuvu Video Account",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 78,
+  "description": "Smart TV 90 GB Freebiz",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 79,
+  "description": "MoneyBack Offer for Huawei Devices",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 80,
+  "description": "J4U Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 81,
+  "description": "Datami_Sponsored Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 82,
+  "description": "YouthPulse Double Data DA",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 83,
+  "description": "Hello World Voice Mobile Originating",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 84,
+  "description": "MoneyBack Modem",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 85,
+  "description": "MoneyBack Router",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 86,
+  "description": "MoneyBack Mifi",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 87,
+  "description": "Xtra time",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 88,
+  "description": "Staff Referral Scheme",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 89,
+  "description": "Master Account Data DA",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 90,
+  "description": "MTN Wifi Broadband_Prepaid_90GB_175ghc",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 91,
+  "description": "MTN Wifi Broadband_225GB_240ghc",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 92,
+  "description": "UBER 200Mins Voice Offer",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 95,
+  "description": "Bonus on Recharge(1-5 GHC)",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 96,
+  "description": "Bonus on Recharge(5 and above)",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 97,
+  "description": "Samsung Note 3(2.5gb)",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 98,
+  "description": "Samsung Note 3(5gb)",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 99,
+  "description": "Reduction in Spend",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100,
+  "description": "0.5GHC(25Mb) Daily data Bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 101,
+  "description": "1GHC(50Mb) Daily Data Bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 102,
+  "description": "2GHC(120Mb) Daily Data Bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 103,
+  "description": "5GHC(350Mb) Daily Data Bundle(Smartapp)",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 104,
+  "description": "DIY Voice",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 105,
+  "description": "FTTX Bonus Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 106,
+  "description": "DIY SMS",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 107,
+  "description": "DIY Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 108,
+  "description": "400MB Kokrokoo Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 109,
+  "description": "40MB_Daily_TV_Bundle_0.5GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 110,
+  "description": "100MB_Daily_TV_Bundle_1GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 111,
+  "description": "LCM1",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 112,
+  "description": "LCM2",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 113,
+  "description": "Holiday Lifestyle Bonus",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 114,
+  "description": "Twitter_Facebook_Whatsapp_Instagram",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 115,
+  "description": "LCM 2038",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 116,
+  "description": "LCM 2039 voice onnet",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 117,
+  "description": "LCM 2036",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 118,
+  "description": "LCM 2037",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 119,
+  "description": "Device Stategy voice onnet",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 120,
+  "description": "Device Stategy Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 121,
+  "description": "Device Stategy voice onnet",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 122,
+  "description": "Device Stategy Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 123,
+  "description": "Device Stategy voice onnet",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 124,
+  "description": "Device Stategy Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 125,
+  "description": "Device Stategy voice onnet",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 126,
+  "description": "Device Stategy Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 127,
+  "description": "Device Stategy voice onnet",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 128,
+  "description": "Device Stategy Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 129,
+  "description": "Device Stategy Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 130,
+  "description": "Device Stategy Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 131,
+  "description": "Device Stategy Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 132,
+  "description": "Football SMS Bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 133,
+  "description": "One year Anniversary Bonus",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 134,
+  "description": "1080 days Anniversary bonus",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 135,
+  "description": "1350 day Anniversary bonus",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 136,
+  "description": "1440 day Anniversary bonus",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 137,
+  "description": "1800 day Anniversary bonus",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 138,
+  "description": "2160 day Anniversary bonus",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 139,
+  "description": "2520 days Anniversary bonus",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 140,
+  "description": "2880 days Anniversary bonus",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 141,
+  "description": "3240 days Anniversary bonus",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 142,
+  "description": "3600 days Anniversary bonus",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 143,
+  "description": "3960 days Anniversary bonus",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 144,
+  "description": "4320 days Anniversary bonus",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 145,
+  "description": "4680 days Anniversary bonus",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 146,
+  "description": "720 days Anniversary bonus",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 147,
+  "description": "Akwaaba voice",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 148,
+  "description": "Akwaaba sms",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 149,
+  "description": "Akwaaba data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 150,
+  "description": "Onnet Voice Monetary",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": true
+ },
+ {
+  "dedicated_account": 151,
+  "description": "Onnet Voice  Non-Monetary",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": true
+ },
+ {
+  "dedicated_account": 152,
+  "description": "800MB_Daily_TV_Bundle_3GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 153,
+  "description": "OffNet and IDD BAND1A Voice Non-Monetary",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": true
+ },
+ {
+  "dedicated_account": 154,
+  "description": "Onnet SMS Monetary",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": true
+ },
+ {
+  "dedicated_account": 155,
+  "description": "Onnet SMS Non-Monetary",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": true
+ },
+ {
+  "dedicated_account": 156,
+  "description": "Hello World Voice Mobile Terminating",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 157,
+  "description": "Offnet SMS Non-Monetary",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": true
+ },
+ {
+  "dedicated_account": 158,
+  "description": "Onent and OffNet Voice  Monetary",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": true
+ },
+ {
+  "dedicated_account": 159,
+  "description": "Onent and OffNet Voice Non-Monetary",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": true
+ },
+ {
+  "dedicated_account": 160,
+  "description": "OnNet And Offnet SMS Monetary",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": true
+ },
+ {
+  "dedicated_account": 161,
+  "description": "OnNet And Offnet SMS Non-Monetary",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": true
+ },
+ {
+  "dedicated_account": 162,
+  "description": "Hello World SMS",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 163,
+  "description": "Hello World Data Bundle_165ghc_2000MB",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 164,
+  "description": "Hello World Data Bundle_410ghc_5000MB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 165,
+  "description": "Hello World Data Bundle_40ghc_57.14MB",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 166,
+  "description": "All Data TG Monetary",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": true
+ },
+ {
+  "dedicated_account": 167,
+  "description": "All Data TG Non-Monetary (Bytes)",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": true
+ },
+ {
+  "dedicated_account": 168,
+  "description": "UBER 1000MB DATA OFFER",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 169,
+  "description": "ISD BAND1A Voice Non-Monetary",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": true
+ },
+ {
+  "dedicated_account": 170,
+  "description": "100MB Life Style Bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 171,
+  "description": "4GB Video Pack",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 172,
+  "description": "Hello World Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 173,
+  "description": "Hello World Data Bundle_80ghc_114.29MB",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 174,
+  "description": "Hello World Data Bundle_80ghc_1000MB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 175,
+  "description": "1GB Life Style Bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 176,
+  "description": "1200MB_Daily_TV_Bundle_5GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 177,
+  "description": "Hello World Data Bundle_40ghc_500MB",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 178,
+  "description": "Onent  OffNet Voice and ISD voice all Zones Monetary",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": true
+ },
+ {
+  "dedicated_account": 179,
+  "description": "360MB_Weekly_TV_Bundle_3GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 180,
+  "description": "ONNET -OFFNET Voice AND SMS Monetary",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": true
+ },
+ {
+  "dedicated_account": 181,
+  "description": "600MB_Weekly_TV_Bundle_5GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 182,
+  "description": "MONETARY_ONNET\u0026OFFNET_VOICE-SMS-DATA-All_ISD_Zones",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": true
+ },
+ {
+  "dedicated_account": 183,
+  "description": "150GB Monthly Data Bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 184,
+  "description": "ONNET AND OFFNET ISD BAND1E BANDID BANDIC All Data TG ONNET SMS",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": true
+ },
+ {
+  "dedicated_account": 185,
+  "description": "DIY BUNDLE SMS",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": true
+ },
+ {
+  "dedicated_account": 186,
+  "description": "DIY BUNDLE VOICE",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": true
+ },
+ {
+  "dedicated_account": 187,
+  "description": "DIY BUNDLE DATA",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": true
+ },
+ {
+  "dedicated_account": 188,
+  "description": "Daily Data Redemption Cap",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 189,
+  "description": "Weekly Data Redemption Cap",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 190,
+  "description": "Monthly Data Redemption Cap",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 191,
+  "description": "Momo Freebiz For Registration Info Update",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 192,
+  "description": "DIY BUNDLE SMS VIA PREPAID WALLET",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": true
+ },
+ {
+  "dedicated_account": 193,
+  "description": "DIY BUNDLE VOICE VIA PREPAID WALLET",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 194,
+  "description": "DIY BUNDLE DATA VIA PREPAID WALLET",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 195,
+  "description": "Hello World Data Bundle_165ghc_235.71MB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 196,
+  "description": "ACS Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 197,
+  "description": "Hello World Data Bundle_410ghc_585.71MB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 198,
+  "description": "4G_20GB data bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 199,
+  "description": "4G_50GB data bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 200,
+  "description": "4G_100GB data bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 201,
+  "description": "Pay Monthly SMS Onnet  And Offnet",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 202,
+  "description": "Daily 4G SIM Swap Bonus",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 203,
+  "description": "Weekly/Monthly 4G SIM Swap Bonus",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 204,
+  "description": "1GHC 25MB Weekly Bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 205,
+  "description": "Contract-Staff Monthly DA/4G TopUp 5GB Capping",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 206,
+  "description": "2000MB_Weekly_TV_Bundle_10GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 207,
+  "description": "Device_Bundle_DA",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 208,
+  "description": "FTTX | WTTX DA",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 209,
+  "description": "Music Plus Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 210,
+  "description": "4500MB_Weekly_TV_Bundle_20GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 211,
+  "description": "Master Beneficiary SMS Bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 212,
+  "description": "PM Birthday Reward Voice",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 213,
+  "description": "PM Birthday Reward SMS",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 214,
+  "description": "PM Birthday Reward Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 215,
+  "description": "Master Beneficiary Voice Bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 216,
+  "description": "Local_voice_across_NW_Non_Monetary",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 217,
+  "description": "2000MB_Monthly_TV_Bundle_20GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 218,
+  "description": "IDD_destination_for_Ericsson_bundle_nonmone",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 219,
+  "description": "3500MB_Monthly_TV_Bundle_30GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 220,
+  "description": "Local_sms_across_nw_nonmon",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 221,
+  "description": "5000MB_Monthly_TV_Bundle_40GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 222,
+  "description": "Data_nonmone_bundle",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 223,
+  "description": "Kokrokoo Voice 30 Mins",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 224,
+  "description": "PM_Money_Back_Local_SMS_across_nw_nonmon",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 225,
+  "description": "PM_Money_Back_Local_Voice_Across_nw_nonmon",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 226,
+  "description": "PM_Money_Back_Data_NonMonetary_Bundle",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 227,
+  "description": "GH3 500MB Daily Data Bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 228,
+  "description": "VOICE ONNET OFFNET AND ISD ZONE 1A",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 229,
+  "description": "7000MB_Monthly_TV_Bundle_50GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 230,
+  "description": "Voice IDD and National Calls",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 231,
+  "description": "IDD Bundle_Canada_UK fixed_China_USA_India_2ghc",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 232,
+  "description": "IDD Bundle_Canada_UK fixed_China_USA_India_5ghc",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 233,
+  "description": "IDD Bundle_Canada_UK fixed_China_USA_India_10ghc",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 234,
+  "description": "IDD Bundle_France_Germany_Spain_2ghc",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 235,
+  "description": "IDD Bundle_France_Germany_Spain_5ghc",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 236,
+  "description": "IDD Bundle_France_Germany_Spain_10ghc",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 237,
+  "description": "NightBundle_5GB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 238,
+  "description": "NightBundlePlus_3GB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 239,
+  "description": "15GB_MonhtlyDataBundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 241,
+  "description": "Kumawood Freebies",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 242,
+  "description": "14 Years And Above Anniversary Bonus Onnet",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 243,
+  "description": "Device Strategy iPhone6 2560MB Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 244,
+  "description": "PM ME2U",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 245,
+  "description": "PM Reward_100SMS Freebies",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 246,
+  "description": "PM Reward 1GB Data NonMonetary",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 247,
+  "description": "PM Reward 100Mins_Voice National Calls NonMonetary",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 248,
+  "description": "1GB Weekly Data Bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 249,
+  "description": "Dataguard Top Up Bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 250,
+  "description": "PM Device Deal 2.5GB Data Freebies",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 251,
+  "description": "Dataguard Default Bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 252,
+  "description": "Whatsapp_50MB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 253,
+  "description": "Huawei Eazifone Prepaid  Voice",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 254,
+  "description": "Smart  Cam Data Offer",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 255,
+  "description": "Huawei Eazifone Prepaid SMS",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 256,
+  "description": "Master Beneficiary Data Bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 300,
+  "description": "Smart Capex",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 304,
+  "description": "Afcon_MOC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 305,
+  "description": "Hajj_MTC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 306,
+  "description": "Afcon_Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 307,
+  "description": "Afcon_SMS",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 308,
+  "description": "Data Library_Free MB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 309,
+  "description": "Data Library_Bonus",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 310,
+  "description": "Data Library_Lifestysle Bonus",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 311,
+  "description": "Data Library_Free MB_Night bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 312,
+  "description": "Goody Hour_Lifestyle Bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 313,
+  "description": "Goody Day_Lifestyle Bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 314,
+  "description": "DIY_Voice",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 315,
+  "description": "DIY_SMS",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 316,
+  "description": "DIY_Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 317,
+  "description": "Jaara2_Free50 MB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 318,
+  "description": "SME_Plus_Onnet_Offnet_Wallet",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 319,
+  "description": "CVM Bundles_MoMo_Onnet",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 320,
+  "description": "Internet Addiction_500MB_Bonus",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 321,
+  "description": "Internet Addiction_1GB_Bonus",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 322,
+  "description": "DIASPORA 100 SMS Across NW",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 323,
+  "description": "DIASPORA 100Mins ACROSS NW",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 324,
+  "description": "DIASPORA  1GB DATA",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 325,
+  "description": "DIASPORA 400MB LIFESTYLE BUNDLE",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 326,
+  "description": "DIASPORA UK FIXED 10MINS",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 327,
+  "description": "Onnet_Weekly",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 328,
+  "description": "Onnet_Monthly",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 329,
+  "description": "Allnet_Daily",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 330,
+  "description": "Allnet_Weekly",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 331,
+  "description": "Allnet_Monthly",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 332,
+  "description": "CVM 60MB daily @ GHS 1",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 333,
+  "description": "CVM 100MB daily @ GHS 1.50",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 334,
+  "description": "CVM 130MB daily @ GHS 2",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 335,
+  "description": "CVM 1GB 3-day @ GHS 5",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 336,
+  "description": "Onnet_Daily",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 337,
+  "description": "CVM 2.5GB 3-day @ GHS 12",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 338,
+  "description": "CVM 100MB 3-day @ GHS 2",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 339,
+  "description": "CVM 300MB 3-day @ GHS 3",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 340,
+  "description": "CVM 500MB weekly @ GHS 5",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 341,
+  "description": "CVM 1.5GB weekly @ GHS 15",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 342,
+  "description": "CVM 550MB monthly @ GHS 10",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 343,
+  "description": "CVM 2GB monthly @ GHS 20",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 344,
+  "description": "CVM 1.2GB monthly @ GHS 15",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 345,
+  "description": "CVM 3GB monthly @ GHS 30",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 346,
+  "description": "Monthly_10GHC_600MB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 347,
+  "description": "Monthly_20GHC_2028MB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 348,
+  "description": "Monthly_30GHC_3277MB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 349,
+  "description": "Monthly_50GHC_5632MB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 350,
+  "description": "Monthly_100GHC_13312MB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 351,
+  "description": "Monthly_199GHC_28672MB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 352,
+  "description": "Monthly_299GHC_56320MB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 353,
+  "description": "Monthly_399GHC_204800MB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 354,
+  "description": "Hot Seat_Voice Benefit",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 355,
+  "description": "Hot Seat_Data Benefit",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 365,
+  "description": "Free100MB-Saturday_SundayOnly",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 366,
+  "description": "Free200MB-7days",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 367,
+  "description": "Free200MB-15days",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 368,
+  "description": "Free100MB-30days",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 369,
+  "description": "Free200MBWhatsappOnly- Saturday_SundayOnly",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 370,
+  "description": "Free400MBFacebookOnly-Saturday_SundayOnly",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 371,
+  "description": "Free400MBInstagramOnly - Saturday_SundayOnly",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 372,
+  "description": "FreeOnnetMinutes-3days",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 373,
+  "description": "FreeOnnetMinutes-7days",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 374,
+  "description": "FreeOnnetMinutes-15days",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 375,
+  "description": "Terrific Thursday_50% Bonus",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 376,
+  "description": "Free500MBLifestylePack-Saturday_SundayOnly",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 377,
+  "description": "Free200MBWhatsappOnly-7days",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 378,
+  "description": "Free300MBWhatsappOnly-30days",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 379,
+  "description": "Free250MBFacebookOnly-7days",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 380,
+  "description": "Free350MBInstagramOnly-7days",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 381,
+  "description": "Free500MBLifestylePack-7days",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 382,
+  "description": "Data Zone unlimited",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 383,
+  "description": "Data Zone 25mb",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 384,
+  "description": "Data Zone 50mb",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 385,
+  "description": "Data Zone 75mb",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 386,
+  "description": "Data Zone bonus",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 387,
+  "description": "Daily_Bundle_50MB_1GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 388,
+  "description": "Daily_Bundle_120MB_2GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 389,
+  "description": "Daily_Bundle_500MB_3GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 390,
+  "description": "Weekly_Bundle_25MB_1GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 391,
+  "description": "Weekly_Bundle_60MB_2GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 392,
+  "description": "Weekly_Bundle_180MB_3GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 393,
+  "description": "Weekly_Bundle_300MB_5GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 394,
+  "description": "Weekly_Bundle_1000MB_10GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 395,
+  "description": "Monthly_Bundle_600MB_10GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 396,
+  "description": "Monthly_Bundle_2028MB_20GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 397,
+  "description": "Monthly_Bundle_3277MB_30GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 398,
+  "description": "Monthly_Bundle_5632MB_50GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 399,
+  "description": "Monthly_Bundle_13312MB_100GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 400,
+  "description": "MyMTN_50MB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 401,
+  "description": "Monthly_Bundle_28672MB_199GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 402,
+  "description": "Monthly_Bundle_102400MB_299GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 403,
+  "description": "Monthly_Bundle_204800MB_399GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 421,
+  "description": "Daily_Bundle_25MB_0.5GHC",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 422,
+  "description": "JAARA",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 423,
+  "description": "2GHC Sunday Special",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 424,
+  "description": "2GHC Sunday Special",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 425,
+  "description": "FMC UPTAKE",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 426,
+  "description": "Dream Oval Onnet",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 427,
+  "description": "Dream Oval Offnet",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 428,
+  "description": "138CST_Daily Internet",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 429,
+  "description": "138CST_Weekly Internet",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 430,
+  "description": "138CST_Monthly Internet",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 431,
+  "description": "Voice_567CSTYouth_Daily",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 432,
+  "description": "Voice_567CSTYouth_Weekly",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 433,
+  "description": "Voice_567CSTYouth_Monthly",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 434,
+  "description": "Data_567CSTYouth_Daily",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 435,
+  "description": "Data_567CSTYouth_Weekly",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 436,
+  "description": "Data_567CSTYouth_Monthly",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 437,
+  "description": "Social Media Bundle Daily",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 438,
+  "description": "Social Media Bundle Weekly",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 439,
+  "description": "Social Media Bundle Monthly",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 440,
+  "description": "Video Bundle Daily",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 441,
+  "description": "Video Bundle Weekly",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 442,
+  "description": "Video Bundle Monthly",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 443,
+  "description": "IDD Bundle 1",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 444,
+  "description": "IDD Bundle 2",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 445,
+  "description": "IDD Bundle 3",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 446,
+  "description": "Super Saver Bundle Daily  - Voice",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 447,
+  "description": "Super Saver Bundle Weekly  - Voice",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 448,
+  "description": "Super Saver Bundle Monthly  - Voice",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 449,
+  "description": "Super Saver Bundle Daily  - Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 450,
+  "description": "Super Saver Bundle Weekly  - Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 451,
+  "description": "Super Saver Bundle Monthly  - Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 452,
+  "description": "Midnight Bundle",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 453,
+  "description": "",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 454,
+  "description": "",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 455,
+  "description": "",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 456,
+  "description": "",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 457,
+  "description": "",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 458,
+  "description": "",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 459,
+  "description": "",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 460,
+  "description": "",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 461,
+  "description": "",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 462,
+  "description": "Midnight_3ghcTo5ghc",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 465,
+  "description": "Money Back Voice",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 466,
+  "description": "Money Back Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 467,
+  "description": "Student Pack Onnet DA ID",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 468,
+  "description": "Student Pack Offnet DA ID",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 469,
+  "description": "Student Pack Data DA ID",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 470,
+  "description": "Student Pack SMS DA ID",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 471,
+  "description": "Student Pack Lifestyle Bundle DA ID",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 500,
+  "description": "5% Bonus on Recharge",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 1000,
+  "description": "MUL_DA_TEST_24102012",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 6011,
+  "description": "MTN_Advantage",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 6013,
+  "description": "MINI ADVANTAGE",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 6015,
+  "description": "ADVANTAGE BONUS",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 10003,
+  "description": "Nfinity_100MB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 10004,
+  "description": "Nfinity_250MB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 10005,
+  "description": "Nfinity_500MB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 10006,
+  "description": "Nfinity_1GB",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 10007,
+  "description": "5GHC_100MB_EVERY_DAY",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 10008,
+  "description": "10GHC_250MB_EVERY_DAY",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 10009,
+  "description": "20GHC_600MB_EVERY_DAY",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 10011,
+  "description": "120GHC_1024MB_EVERY_DAY",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 10012,
+  "description": "DATA ONLY_7GHC",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 10013,
+  "description": "DATA ONLY_10GHC",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 10014,
+  "description": "DATA ONLY_15GHC",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 10015,
+  "description": "DATA ONLY_20GHC",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 10016,
+  "description": "DATA ONLY_30GHC",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 10017,
+  "description": "DATA ONLY_5GHC",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 10051,
+  "description": "MusicTime_50MB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 10052,
+  "description": "MusicTime_100MB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 10053,
+  "description": "MusicTime_250MB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 10054,
+  "description": "MusicTime_700MB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 10055,
+  "description": "DATA 25% Gift Bundle bonus",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 10060,
+  "description": "PM REWARDS VOICE",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 10061,
+  "description": "PM REWARDS DATA",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20001,
+  "description": "Nfinity_10Mins",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20002,
+  "description": "Nfinity_20Mins",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20003,
+  "description": "Nfinity_50Mins",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20007,
+  "description": "IDD Bundle GHC 20_GERMANY MOBILE",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20008,
+  "description": "IDD Bundle GHC 20_GERMANY FIXED",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20009,
+  "description": "IDD Bundle GHC 20_INDIA",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20010,
+  "description": "IDD Bundle GHC 20_FRANCE FIXED",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20011,
+  "description": "IDD Bundle GHC 20_FRANCE MOBILE",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20012,
+  "description": "IDD Bundle GHC 20_UAE",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20013,
+  "description": "IDD Bundle GHC 40_ITALY FIXED",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20014,
+  "description": "IDD Bundle GHC 40_ITALY MOBILE",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20015,
+  "description": "IDD Bundle GHC 40_BELGIUM",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20016,
+  "description": "IDD Bundle GHC 40_SPAIN FIXED",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20017,
+  "description": "IDD Bundle GHC 40_ SPAIN MOBILE",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20018,
+  "description": "IDD Bundle GHC 40_NETHERLANDS",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20019,
+  "description": "IDD Bundle GHC 30_GERMANY MOBILE",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20020,
+  "description": "IDD Bundle GHC 30_GERMANY FIXED",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20021,
+  "description": "IDD Bundle GHC 30_INDIA",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20022,
+  "description": "IDD Bundle GHC 30_FRANCE FIXED",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20023,
+  "description": "IDD Bundle GHC 30_FRANCE MOBILE",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20024,
+  "description": "IDD Bundle GHC 30_UAE",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20025,
+  "description": "IDD Bundle GHC 50_GERMANY MOBILE",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20026,
+  "description": "IDD Bundle GHC 50_GERMANY FIXED",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20027,
+  "description": "IDD Bundle GHC 50_INDIA",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20028,
+  "description": "IDD Bundle GHC 50_FRANCE FIXED",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20029,
+  "description": "IDD Bundle GHC 50_FRANCE MOBILE",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20030,
+  "description": "IDD Bundle GHC 50_UAE",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20031,
+  "description": "IDD Bundle GHC 50_ITALY FIXED",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20032,
+  "description": "IDD Bundle GHC 50_ITALY MOBILE",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20033,
+  "description": "IDD Bundle GHC 50_BELGIUM",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20034,
+  "description": "IDD Bundle GHC 50_SPAIN FIXED",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20035,
+  "description": "IDD Bundle GHC 50_ SPAIN MOBILE",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20036,
+  "description": "IDD Bundle GHC 50_NETHERLANDS",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20037,
+  "description": "IDD Bundle GHC 100_ITALY FIXED",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20038,
+  "description": "IDD Bundle GHC 100_ITALY MOBILE",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20039,
+  "description": "IDD Bundle GHC 100_BELGIUM",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20040,
+  "description": "IDD Bundle GHC 100_SPAIN FIXED",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20041,
+  "description": "IDD Bundle GHC 100_ SPAIN MOBILE",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 20042,
+  "description": "IDD Bundle GHC 100_NETHERLANDS",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40004,
+  "description": "COMBO_Data_5GHC",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40005,
+  "description": "COMBO_Data_7GHC",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40006,
+  "description": "COMBO_Data_10GHC",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40007,
+  "description": "COMBO_Data_15GHC",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40008,
+  "description": "COMBO_Data_20GHC",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40009,
+  "description": "COMBO_Data_30GHC",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40010,
+  "description": "COMBO_Voice_5GHC",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40011,
+  "description": "COMBO_Voice_7GHC",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40012,
+  "description": "COMBO_Voice_10GHC",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40013,
+  "description": "COMBO_Voice_15GHC",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40014,
+  "description": "COMBO_Voice_20GHC",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40015,
+  "description": "COMBO_Voice_30GHC",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40016,
+  "description": "Farmers Onnet",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40017,
+  "description": "Farmers Offnet",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40018,
+  "description": "Farmers SMS",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40019,
+  "description": "Farmers Data",
+  "unit_type": 1,
+  "is_active": false,
+  "unit_type_value": "Monetary",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40028,
+  "description": "Tertiary Package _Ghc40",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40029,
+  "description": "Tertiary Package _Ghc80",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40030,
+  "description": "Tertiary Package _Ghc120",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40031,
+  "description": "Tertiary Package _Ghc150",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40032,
+  "description": "Tertiary Package _Ghc170",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40036,
+  "description": "Tertiary Package _Ghc150",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40037,
+  "description": "Tertiary Package _Ghc170",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40038,
+  "description": "Tertiary Package _Ghc40",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40039,
+  "description": "Tertiary Package _Ghc80",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40040,
+  "description": "Tertiary Package _Ghc120",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40041,
+  "description": "Tertiary Package _Ghc150",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40042,
+  "description": "Tertiary Package _Ghc170",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40043,
+  "description": "Tertiary Package _Ghc40",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40044,
+  "description": "Tertiary Package _Ghc80",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40045,
+  "description": "Tertiary Package _Ghc120",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40046,
+  "description": "Tertiary Package _Ghc150",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40047,
+  "description": "Tertiary Package _Ghc170",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40048,
+  "description": "Tertiary Package _Ghc40",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40049,
+  "description": "Tertiary Package _Ghc80",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40050,
+  "description": "Tertiary Package _Ghc120",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40051,
+  "description": "Tertiary Package _Ghc150",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40052,
+  "description": "Tertiary Package _Ghc170",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40088,
+  "description": "25th Anniversary Founding Fathers Free 2.5GB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 40089,
+  "description": "25th Anniversary GenZ Millennials_ Free 2.5GB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100002,
+  "description": "Football SMS Bundle ODR",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100003,
+  "description": "138 DATA DA ODR",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100004,
+  "description": "Monthly_1GB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100006,
+  "description": "Monthly_2.5GB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100007,
+  "description": "ODR SME Plus Data",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100018,
+  "description": "Weekly_180MB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100019,
+  "description": "DATA GHC 10",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100020,
+  "description": "Monthly_400MB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100021,
+  "description": "ODR SME Plus Onnet Voice",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100025,
+  "description": "ODR HV PACK Onnet Voice",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100026,
+  "description": "Super Saver GHC 5 Voice",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100027,
+  "description": "Postpaid DATA TOPUP",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100028,
+  "description": "Super Saver GHC 5 SMS",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100029,
+  "description": "Holiday Offer Segment",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100030,
+  "description": "Super Saver GHC 5 Data",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100031,
+  "description": "Monthly_4GB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100032,
+  "description": "Monthly_6GB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100033,
+  "description": "138 DATA DA ODR",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100036,
+  "description": "Birthday reward onnet voice",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100037,
+  "description": "Birthday reward SMS",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100038,
+  "description": "Birthday reward Data",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100040,
+  "description": "ODR SME Plus Offnet Voice",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100042,
+  "description": "ODR SME Plus SMS",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100048,
+  "description": "MashUp Free SMS",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100093,
+  "description": "ODR HV PACK SMS",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100094,
+  "description": "ODR HV PACK Data",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100100,
+  "description": "DATA GHC 0.5",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100101,
+  "description": "DATA GHC 1",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100102,
+  "description": "Daily_180MB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100108,
+  "description": "Kokrokoo DATA",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100110,
+  "description": "Video Bundle GHC 1",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100113,
+  "description": "Holiday Offer Segment D_400MB And Above Cap_400MB Bon",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100114,
+  "description": "Lifestyle_400 MB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100170,
+  "description": "100MB Life Style Bundle",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100175,
+  "description": "1GB Life Style Bundle",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100188,
+  "description": "Daily Data Redemption Cap",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100189,
+  "description": "Weekly Data Redemption Cap",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100190,
+  "description": "Monthly Data Redemption Cap",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100204,
+  "description": "Weekly-25MB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100206,
+  "description": "Video Bundle GHC 10",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100208,
+  "description": "FTTX | WTTX ODR Data",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100209,
+  "description": "HSDP ODR Music | Video Plus Data",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100221,
+  "description": "Video Bundle GHC 5",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100223,
+  "description": "Kokrokoo Voice",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100227,
+  "description": "GHC3 Daily-500M",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100232,
+  "description": "IDD Bundle GHC 5_CANADA_UK FIXED_CHINA_USA_INDIA",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100238,
+  "description": "DATA GHC 1 (Midnight)",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100239,
+  "description": "138 DATA DA ODR",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100241,
+  "description": "HSDP Kumawood Freebies Data",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100242,
+  "description": "ODR Anniversary Bonus Onnet",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100248,
+  "description": "Weekly-1000MB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100308,
+  "description": "FlyTxt Data",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100309,
+  "description": "Library Bonus_Data",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100310,
+  "description": "Library Bonus_Data",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100311,
+  "description": "Free_1GB Night Bundle",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100312,
+  "description": "Goody Hour_Lifestyle Bundle",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100313,
+  "description": "Goody Day_Lifestyle Bundle",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100317,
+  "description": "ODR Jaara2 Data",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100318,
+  "description": "ODR SME Plus Voice",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100320,
+  "description": "Internet Addiction_500MB_Bonus_Offer",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100321,
+  "description": "Internet Addiction_1GB_Bonus_Offer",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100327,
+  "description": "Onne Voice",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100328,
+  "description": "Onne Voice",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100329,
+  "description": "Allnet Voice",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100330,
+  "description": "Allnet Voice",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100331,
+  "description": "Allnet Voice",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100332,
+  "description": "Daily @1 for 60MB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100333,
+  "description": "Daily @1 for 100MB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100334,
+  "description": "Daily @1 for 130MB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100335,
+  "description": "3 Day @3 for 1GB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100336,
+  "description": "Onne Voice",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100337,
+  "description": "3 Day @3 for 2.5GB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100338,
+  "description": "3 Day @3 for 100MB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100339,
+  "description": "3 Day @3 for 300MB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100340,
+  "description": "Weekly @7 for 500MB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100341,
+  "description": "Weekly @7 for 1.5MB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100342,
+  "description": "Monthly @30 for 550MB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100343,
+  "description": "Monthly @30 for 2GB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100344,
+  "description": "Monthly @30 for 1.2GB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100345,
+  "description": "Monthly @30 for 3GB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100354,
+  "description": "HSDP Hot Seat Voice Benefit",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100355,
+  "description": "HSDP Hot Seat Data Benefit",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100365,
+  "description": "Data Bundle@2days",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100366,
+  "description": "Data Bundle@7days",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100367,
+  "description": "Data Bundle@15days",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100368,
+  "description": "Data Bundle@30days",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100369,
+  "description": "Social Data Bundle_200MB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100370,
+  "description": "Social Data Bundle_400MB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100371,
+  "description": "Social Data Bundle_400MB@2",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100372,
+  "description": "Onnet Minutes_40 Min",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100373,
+  "description": "Onnet Minutes_20 Min@7",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100374,
+  "description": "Onnet Minutes_30 Min@15",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100375,
+  "description": "Terrific Thursday DATA DA",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100376,
+  "description": "Social Data Bundle_500MB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100377,
+  "description": "Social Data Bundle_200MB@7",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100378,
+  "description": "Social Data Bundle_300MB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100379,
+  "description": "Social Data Bundle_250MB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100380,
+  "description": "Social Data Bundle_350MB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100381,
+  "description": "Social Data Bundle_500MB",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100422,
+  "description": "ODR Jaara3 Offnet Voice",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100423,
+  "description": "ODR 2GHC Sunday Special",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100424,
+  "description": "ODR 2GHC Sunday Special",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100428,
+  "description": "138 DATA DA ODR",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100429,
+  "description": "138 DATA DA ODR",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100430,
+  "description": "DATA Flexi Bundles (GHC 0.03-399)",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100431,
+  "description": "MashUp Voice",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100432,
+  "description": "567 ODR Voice Youth Pulse",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100433,
+  "description": "567 ODR Voice Youth Pulse",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100434,
+  "description": "MashUp DATA",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100435,
+  "description": "567 ODR Data Youth Pulse",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100436,
+  "description": "DATA Flexi(GHC 0-2.99) (Midnight)",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100437,
+  "description": "Social Media GHC 1",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100438,
+  "description": "Social Media GHC 5",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100439,
+  "description": "Social Media GHC 10",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100440,
+  "description": "Video Data Bundle 1",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100441,
+  "description": "Video Data Bundle 3",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100442,
+  "description": "Video Bundle Flexi (GHC 0.03-1000)",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100446,
+  "description": "Super Saver GHC 10 Voice",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100447,
+  "description": "ODR Super Saver Bundle Voice",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100448,
+  "description": "Super Saver Bundle Flexi Voice",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100449,
+  "description": "Super Saver GHC 10 Data",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100450,
+  "description": "ODR Super Saver Bundle Data",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100451,
+  "description": "Super Saver Bundle Flexi Data",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 100462,
+  "description": "DATA GHC 3  (Midnight)",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 101462,
+  "description": "Midnight DATA DA ODR",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 200082,
+  "description": "Mashup 4G Bonus DA1",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 200083,
+  "description": "Mashup 4G Bonus DA2",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 200114,
+  "description": "Mashup Social DATA",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 200202,
+  "description": "DATA 4G Bonus DA 1",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 200203,
+  "description": "DATA 4G Bonus DA 2",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 200204,
+  "description": "ODR 4G Bonus DA",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 200208,
+  "description": "ODR FTTX Bonus DA",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": true,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 200252,
+  "description": "Mashup WhatsApp DATA 1",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 300002,
+  "description": "SMS Bundle ODR",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 300006,
+  "description": "567 ODR Voice Youth Pulse",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 300007,
+  "description": "ODR Youth SMS",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 300008,
+  "description": "567 ODR Data Youth Pulse",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 300009,
+  "description": "567 ODR Voice Youth Pulse",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 300010,
+  "description": "ODR Youth SMS",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 300011,
+  "description": "567 ODR Data Youth Pulse",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 300012,
+  "description": "567 ODR Data Youth Pulse",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 300013,
+  "description": "ODR MTN Advantage 1",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 300014,
+  "description": "ODR MTN Advantage 2",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 300015,
+  "description": "ODR SMS Bundle Flexi",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 300016,
+  "description": "ODR IDD Bundle Flexi",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 300017,
+  "description": "ODR Super Saver Bundle SMS",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 300018,
+  "description": "Super Saver Bundle Flexi SMS",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 300019,
+  "description": "Super Saver GHC 10 SMS",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 300026,
+  "description": "Super Saver GHC 50 Voice",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 300028,
+  "description": "Super Saver GHC 50 SMS",
+  "unit_type": 5,
+  "is_active": true,
+  "unit_type_value": "SMS",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 300030,
+  "description": "Super Saver GHC 50 Data",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 300031,
+  "description": "DATA GHC 3",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 300032,
+  "description": "DATA GHC 399",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 300100,
+  "description": "Me2U DATA Transfer",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 300436,
+  "description": "Midnight DATA DA ODR",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 300439,
+  "description": "Social Media Flexi (GHC 0.03-1000)",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 300443,
+  "description": "IDD Bundle GHC 2_CANADA_UK FIXED_CHINA_USA_INDIA",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 300445,
+  "description": "IDD Bundle GHC 10_CANADA_UK FIXED_CHINA_USA_INDIA",
+  "unit_type": 0,
+  "is_active": true,
+  "unit_type_value": "Time sec",
+  "is_bonus": false,
+  "is_postpaid": false
+ },
+ {
+  "dedicated_account": 400000,
+  "description": "FTTX | WTTX ODR Flexi Data",
+  "unit_type": 6,
+  "is_active": true,
+  "unit_type_value": "Volume Bytes",
+  "is_bonus": false,
+  "is_postpaid": false
+ }
+]
